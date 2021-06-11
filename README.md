@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Johanna 👋
 
 <!--
 **mjvalenzuela/mjvalenzuela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+You can find me:
+
+Youtube: https://www.youtube.com/channel/UCbiz5hEvp5O2OSCB_3VVGww
+
