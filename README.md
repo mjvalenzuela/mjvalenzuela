@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjvalenzuela)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 You can find me:
@@ -25,3 +25,4 @@ LinkedIn: https://www.linkedin.com/in/maritzajohannavalenzuelasuarez/
 
 https://www.talkable.com/x/7HQzvB
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjvalenzuela)](https://github.com/anuraghazra/github-readme-stats)
