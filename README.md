@@ -1,4 +1,14 @@
-### Hi, I'm Johanna 👋
+### Hi, I'm Johanna 😄
+
+[![GitHub Badge](https://img.shields.io/github/followers/giswqs?style=social)](https://github.com/giswqs?tab=followers)
+<!--[![Twitter Badge](https://img.shields.io/twitter/follow/giswqs?style=social)](https://twitter.com/giswqs)-->
+<!--[![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=vmml4_0AAAAJ&hl=en)-->
+<!--[![UTK Badge](https://img.shields.io/badge/UTK-Faculty-orange)](https://faculty.utk.edu/Qiusheng.Wu)-->
+[![YouTube Badge](https://img.shields.io/badge/My-YouTube-red)](https://www.youtube.com/channel/UCbiz5hEvp5O2OSCB_3VVGww)
+[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/maritzajohannavalenzuelasuarez/)
+<!--[![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://arcgis.me/cv/)-->
+[![Donate Badge](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellowgreen.svg)](https://www.buymeacoffee.com/mjvalenzuela)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mjvalenzuela.mjvalenzuela)
 
 <!--
 **mjvalenzuela/mjvalenzuela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,15 +24,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-
-
-You can find me:
-
-Youtube: https://www.youtube.com/channel/UCbiz5hEvp5O2OSCB_3VVGww
-LinkedIn: https://www.linkedin.com/in/maritzajohannavalenzuelasuarez/
-
-https://www.talkable.com/x/7HQzvB
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjvalenzuela)](https://github.com/anuraghazra/github-readme-stats)
