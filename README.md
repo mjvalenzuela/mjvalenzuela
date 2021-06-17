@@ -24,4 +24,5 @@ Here are some ideas to get you started:
 Hi! I am Johanna and I create content about geographic information systems, especially creating web maps with JavaScript and geoprocessing tools with Python. I am starting to share information with you.
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=mjvalenzuela&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjvalenzuela&langs_count=3&hide=javascript,python,html,css)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjvalenzuela)
